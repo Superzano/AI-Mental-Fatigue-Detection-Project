@@ -1,4 +1,4 @@
-mental-fatigue-detection-journal-paper
+Mental Fatigue Detection with Machine Learning
 ==============================
 
 Data Science project: Detecting Mental Fatigue from Biosignals.
