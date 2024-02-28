@@ -1,6 +1,8 @@
 Mental Fatigue Detection with Machine Learning
 ==============================
 
+Status: Ongoing 🔄
+
 Data Science project: Detecting Mental Fatigue from Biosignals.
 
 Project Organization
